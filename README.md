@@ -3,9 +3,6 @@
 
   A collection of applications I built over the summer.
 
-  Welcome!. Each application was built in a state of "vibe coding"—creative, spontaneous sessions where the goal was to learn, build, and have fun.
-
-
 🤖Development Notes
 
   Process: Built during "vibe coding" sessions.
